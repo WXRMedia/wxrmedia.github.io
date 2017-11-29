@@ -15,6 +15,9 @@ nav {
   flex-wrap: nowrap;
   flex-grow: 1;
 }
+p{
+  font-size:1.3em;
+}
 button {
   height: 50px;
   width: 25%;
