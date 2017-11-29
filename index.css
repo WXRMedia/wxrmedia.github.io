@@ -52,6 +52,9 @@ body {
 .padding{
   padding-bottom:-20px;
 }
+.weather{
+  width: 85%;
+}
 #flex {
   display:flex;
   flex-direction: column;
