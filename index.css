@@ -16,7 +16,7 @@ nav {
   flex-grow: 1;
 }
 nav img {
-  width: 33.333%;
+  width: 100px;
   height: 50px;
   align-left: 33.333%
 }
