@@ -48,7 +48,7 @@ body {
 }
 .items{
   width: 85%;
-  min-height: 800px;
+  min-height: 200px;
   height: 800%;
   margin: 60px auto;
   top: 10%;
